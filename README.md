@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mubashirsyed09?s=11&t=2chgwivaOQYBp9E3fC8SKQ" alt="abdulrahman" /></a> </p>
 
-- 🔭 I’m currently working on * learning*
+- 🔭 I’m currently * learning*
 
-)
+
 
 - 💬 Ask me about *DA.*
 
@@ -16,10 +16,9 @@
 - ⚡ Fun fact *I am involved in a lot of organizational and entrepreneurial work in organizations related to Startups, hackathons, fests and workshops and helped in building many communities.*
 
 <h3 align="left">Connect with me:</h3>
-<p> instagram</p>
+<p> on instagram @syeds_carvation</p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashircarvi&show_icons=true&locale=en&layout=compact" alt="mubashircarvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashircarvi&" alt="mubashircarvi" /></p>
